@@ -1,16 +1,21 @@
+# DATE:29/01/2026
 # EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
+# Name: Rabin R
+# Reg No:212223060215 
 # AIM:
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
-
+^ Personal Computer
+^ Cisco Packey Tracer
 
 
 # IP ASSIGNMENT:
-
-
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/e0c6e35d-0209-4774-8485-4b58b413b817" />
 
 # NETWORK DIAGRAM:
+<img width="914" height="362" alt="image" src="https://github.com/user-attachments/assets/3ad99297-d40d-44d0-bf28-8dd173cc64d5" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,8 +84,7 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
-
-
+![WhatsApp Image 2026-03-27 at 8 25 14 PM](https://github.com/user-attachments/assets/6fdf8b1e-0d94-49d1-9e7b-02777671e037)
 
 # RESULT:
 
